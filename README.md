@@ -1,0 +1,2 @@
+# philly-districts-analysis
+An interactive tool to help you explore the many school districts in Philadelphia and how socio-economic factors might play an impact on the number of suspensions in Philadelphia. Included in this application are an interactive map where you can find information on average attendance rate and various socio-economic factors associated with each Philadelphia zip code and a regression model that will allow you to predict the number of suspensions based on the socio-economics factors in a school district.
